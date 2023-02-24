@@ -1,1 +1,1 @@
-# TinDog---Tinder-for-Dog
+# TinDog - Tinder-for-Dog
